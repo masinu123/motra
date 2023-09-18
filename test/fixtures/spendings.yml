@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount: 1
+  note: MyString
+  spent_at: 2023-09-13 10:35:32
+  currency: MyString
+  fund_id: 1
+  user_id: 1
+  tag_id: 1
+
+two:
+  amount: 1
+  note: MyString
+  spent_at: 2023-09-13 10:35:32
+  currency: MyString
+  fund_id: 1
+  user_id: 1
+  tag_id: 1
